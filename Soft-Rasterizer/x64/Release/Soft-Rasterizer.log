@@ -1,0 +1,120 @@
+﻿  Camera.hpp
+E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Camera.hpp”)
+  
+  main.cpp
+E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“main.cpp”)
+  
+  Render.cpp
+E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\OBJ_Loader.hpp(937,18): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(47,5): error C2065: “mat”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(48,5): error C2065: “mat”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(49,5): error C2065: “tempMat”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(50,5): error C2065: “tempMat”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(51,5): error C2065: “tempMat”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(52,5): error C2065: “tempMat”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(53,5): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(53,9): error C2065: “tempMat”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(55,62): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(60,5): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(60,16): error C2065: “BLENDER”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(61,5): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(62,5): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(63,5): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(64,5): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(65,5): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(66,5): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Mesh.hpp(68,57): error C2065: “m”: 未声明的标识符
+  (编译源文件“Render.cpp”)
+  
+  Scene.cpp
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Scene.cpp(1,9): error C3872: “0x2028”: 此字符不允许在标识符中使用
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Scene.cpp(1,9): warning C4068: 未知的杂注“once ”
+E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Scene.cpp(1,16): error C2014: 预处理器命令必须作为第一个非空白空间启动
+  Triangle.cpp
+E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“Triangle.cpp”)
+  
+E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\AssignEvaluator.h(859,3): error C2338: static_assert failed: 'YOU_MIXED_MATRICES_OF_DIFFERENT_SIZES'
+  (编译源文件“Triangle.cpp”)
+  E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\AssignEvaluator.h(859,3):
+  模板实例化上下文(最早的实例化上下文)为
+  	E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Triangle.cpp(7,12):
+  	查看对正在编译的函数 模板 实例化“Eigen::Matrix<float,4,1,0,4,1> &Eigen::Matrix<float,4,1,0,4,1>::operator =<Derived>(const Eigen::DenseBase<Derived> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+  		E:\daima\Soft Rasterizer\Soft-Rasterizer\Soft-Rasterizer\Triangle.cpp(7,12):
+  		请参阅 "Triangle::setVertex" 中对 "Eigen::Matrix<float,4,1,0,4,1>::operator =" 的第一个引用
+  	E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\Matrix.h(225,20):
+  	查看对正在编译的函数 模板 实例化“Derived &Eigen::PlainObjectBase<Derived>::_set<Eigen::Matrix<float,3,1,0,3,1>>(const Eigen::DenseBase<Eigen::Matrix<float,3,1,0,3,1>> &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<float,4,1,0,4,1>
+          ]
+  	E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\PlainObjectBase.h(779,17):
+  	查看对正在编译的函数 模板 实例化“void Eigen::internal::call_assignment<Derived,Eigen::Matrix<float,3,1,0,3,1>>(Dst &,const Src &)”的引用
+          with
+          [
+              Derived=Eigen::Matrix<float,4,1,0,4,1>,
+              Dst=Eigen::Matrix<float,4,1,0,4,1>,
+              Src=Eigen::Matrix<float,3,1,0,3,1>
+          ]
+  	E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\AssignEvaluator.h(808,3):
+  	查看对正在编译的函数 模板 实例化“void Eigen::internal::call_assignment<Dst,Src,Eigen::internal::assign_op<float,float>>(Dst &,const Src &,const Func &,void *)”的引用
+          with
+          [
+              Dst=Eigen::Matrix<float,4,1,0,4,1>,
+              Src=Eigen::Matrix<float,3,1,0,3,1>,
+              Func=Eigen::internal::assign_op<float,float>
+          ]
+  	E:\daima\Soft Rasterizer\Soft-Rasterizer\include\eigen-git-mirror\Eigen\src\Core\AssignEvaluator.h(830,3):
+  	查看对正在编译的函数 模板 实例化“void Eigen::internal::call_assignment_no_alias<Dst,Src,Func>(Dst &,const Src &,const Func &)”的引用
+          with
+          [
+              Dst=Eigen::Matrix<float,4,1,0,4,1>,
+              Src=Eigen::Matrix<float,3,1,0,3,1>,
+              Func=Eigen::internal::assign_op<float,float>
+          ]
+  
